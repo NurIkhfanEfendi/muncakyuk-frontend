@@ -20,8 +20,8 @@
 
   <section id="hero">
     <div class="hero-container">
-      <h1>Welcome to Muncakuy.com</h1>
-      <h2>Bingung cari barengan? mau mendaki kok sendirian? yuk temukan barenganmu dengan cara klik di bawah ini</h2>
+      <h1>Welcome to Muncakuy</h1>
+      <h2>Bingung cari teman untuk mendaki? Mendaki kok sendirian? Yuk mulai petualanganmu disini!</h2>
       <a href="#about" class="btn-get-started">Get Started</a>
     </div>
   </section>
@@ -33,20 +33,20 @@
             <h2 class="title">Yuk ikuti caranya di bawah ini</h2>
             <br>
             <div class="icon-box wow fadeInUp">
-              <div class="icon"><i class="fa"></i></div>
-              <p class="description">Jika sebelum memiliki akun, register terlebih dahulu. Jika sudah memiliki akun, anda langsung login saja.</p>
+              <div class="icon"></div>
+              <p class="description">Jika belum memiliki akun, register terlebih dahulu. Jika sudah, anda langsung login saja.</p>
             </div>
             <div class="icon-box wow fadeInUp" data-wow-delay="0.2s">
-              <div class="icon"><i class="fa"></i></div>
-              <p class="description">Setelah login kamu akan dihadapkan dengan list orang orang dengan tujuan tertentu, kamu bisa cari orang yang setujuan denganmu</p>
+              <div class="icon"></div>
+              <p class="description">Setelah login, kamu bisa mencari teman mendaki yang satu tujuan denganmu</p>
             </div>
             <div class="icon-box wow fadeInUp" data-wow-delay="0.4s">
-              <div class="icon"><i class="fa"></i></div>
-              <p class="description">Jika menemukan barengan yang setujuan denganmu, kamu bisa click kontak maka kamu mengetahui kontaknya dan bisa menghubunginya</p>
+              <div class="icon"></div>
+              <p class="description">Jika sudah menemukan teman, kamu bisa menghubungi nomer handphonenya</p>
             </div>
             <div class="icon-box wow fadeInUp" data-wow-delay="0.6s">
-              <div class="icon"><i class="fa"></i></div>
-              <p class="description">Jika tidak menemukan barengan yang setujuan denganmu, maka kamu bisa mengisi form tujuanmu</p>
+              <div class="icon"></div>
+              <p class="description">Jika tidak menemukan teman, maka kamu bisa langsung mengisi form sesuai tujuanmu</p>
             </div>
           </div>
           <div class="col-lg-6 background order-lg-2 order-1 wow fadeInRight"></div>
